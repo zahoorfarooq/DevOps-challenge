@@ -81,7 +81,7 @@ Below is the index of the incredible DevOps journey that awaits you:
 
 ### 🛠️ [Day 54-59: Journey Through Ansible: Configuration Management & Automation](./2023/day54/)
 
-- Description: Venture into the realm of Infrastructure as Code (IaC) and Configuration Management with a detailed focus on Ansible. From basic setups to complex playbooks and hands-on projects, master the nuances of Ansible through step-by-step tasks and comprehensive modules.
+- Description: Venture into the realm of Infrastructure as Code (IaC) and Configuration Management with a detailed focus on Ansible. From basic setups to complex playbooks and hands-on projects, master the nuances of Ansible through step-by-step tasks and comprehensive modules. 
 - Topics Covered:
   - [Introduction to Infrastructure as Code and its significance.](./2023/day54/README.md)
   - [Diving deep into Configuration Management and the power of Ansible.](./2023/day55/README.md)
